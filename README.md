@@ -1,1 +1,1 @@
-# datascience
+# Applied Ordinal Logistic Regression on Shitrentals.org data to predict tenant satisfaction. Identified significant predictors like rental price and suburb (e.g. Redfern), delivering insights for property managers.
